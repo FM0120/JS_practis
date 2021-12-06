@@ -1,10 +1,10 @@
 /* .box1 {
-  background-color: #FF0000;
+  background-color: #FF0000;1
   height: 200px;
   width: 200px;
 }
 
-.box1 {
+.box1 {2
   /* display: none;  background-color: #FF0000; */
   /* height: 200px;
   width: 200px; */
@@ -13,39 +13,63 @@
   width: 200px;
 } */
 
-/* .box1 {
+/* .box1 {2
   display: none;  background-color: #FF0000;
   height: 200px;
   width: 200px;
 } */
 
-/* .box1 {
+/* .box1 {2
   background-color: #FF0000;
   height: 200px;
   width: 200px;
 } */
 /* 確認問題
-.box1 {
+.box1 {2
   display: none;
   background-color: #FF0000;
   height: 200px;
   width: 200px;
 } */
 
-/* .box1 {
+/* .box1 {2
   background-color: #FF0000;
   height: 200px;
   width: 200px;
 } */
 
 
-/* class属性を追加する/解除する */
-/* .box1 {
+/* class属性を追加する/解除する 4*/
+/* .box1 {3
   background-color: #FF0000;
   height: 200px;
   width: 200px;
 }
 
-.box1-ext {
+.box1-ext {3
   border: 10px solid black;
+} */
+
+/* 3 */
+/* .box1 {
+  background-color: #FFFFFF;
+  height: 200px;
+  width: 200px;
+  float: left;
+}
+
+.bg1 {
+  background-color: #FFAAAA;
+}
+
+.bg2 {
+  background-color: #FFBBBB;
+}
+
+.bg3 {
+  background-color: #FFCCCC;
+}
+
+.bg4 {
+  background-color: #FFDDDD;
 } */
